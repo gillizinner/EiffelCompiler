@@ -1,0 +1,8 @@
+-STACK:5000000 -NODEFAULTLIB:libc -STACK:5000000 -NODEFAULTLIB:libc -SUBSYSTEM:CONSOLE -OUT:targil1_original.exe 
+e1\emain.obj 
+"c:\Eiffel_17.01_gpl_99700-windows\Eiffel_17.01\studio\spec\windows\lib\msc_vc140\mtwkbench.lib" 
+USER32.lib WS2_32.lib ADVAPI32.lib GDI32.lib SHELL32.lib MSIMG32.lib COMDLG32.lib UUID.lib OLE32.lib OLEAUT32.lib COMCTL32.lib MPR.LIB SHLWAPI.LIB WINSPOOL.LIB "c:\users\giliz\documents\eiffel user files\17.01\precomp\spec\windows\EIFGENs\base-scoop-safe\W_code\msc_vc140\precomp.lib" 
+targil1_original.res 
+E1\eparents.obj E1\einit.obj E1\ececil.obj E1\evisib.obj E1\enames.obj 
+E1\eskelet.obj E1\eplug.obj E1\ecall.obj E1\efrozen.obj E1\epattern.obj 
+E1\eoption.obj C1\Cobj1.lib 

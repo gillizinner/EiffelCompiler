@@ -1,0 +1,12 @@
+targil_5	APPLICATION	make	F958_7055	C1\ap958.c
+elks	ARRAY2 [G#1]	make	F959_3623	C1\ar959.c
+elks	ARRAY2 [G#1]	make_filled	F959_3624	C1\ar959.c
+elks	ARRAY2 [G#1]	initialize	F959_3625	C1\ar959.c
+elks	ARRAY2 [G#1]	item	F959_3626	C1\ar959.c
+elks	ARRAY2 [G#1]	height	F959_3627	C1\ar959.c
+elks	ARRAY2 [G#1]	width	F959_3628	C1\ar959.c
+elks	ARRAY2 [G#1]	put	F959_3629	C1\ar959.c
+elks	ARRAY2 [G#1]	force	F959_3630	C1\ar959.c
+elks	ARRAY2 [G#1]	wipe_out	F959_3631	C1\ar959.c
+elks	ARRAY2 [G#1]	resize	F959_3632	C1\ar959.c
+elks	ARRAY2 [G#1]	resize_with_default	F959_3633	C1\ar959.c
